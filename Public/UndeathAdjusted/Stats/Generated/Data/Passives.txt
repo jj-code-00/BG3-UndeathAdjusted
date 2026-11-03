@@ -1,4 +1,0 @@
-//new entry "PathOfUndeath_Vampirism"
-//type "PassiveData"
-//using "PathOfUndeath_Vampirism"
-//data "DynamicAnimationTag" "aafbe780-d237-416e-9d05-e03070c9dbee"
