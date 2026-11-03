@@ -1,0 +1,12 @@
+new entry "Target_VampireBite_Astarion"
+type "SpellData"
+data "SpellType" "Target"
+using "Target_VampireBite_Astarion"
+data "SpellAnimation" "f13da615-33ae-412e-8314-4ac4fc560dbf,,;0b0775f0-96b0-4f8e-994d-5bfbae3ec0f0,,;01fe9641-f630-4ed2-8035-1186dc7a5803,c5dd4205-ab94-4dcc-85a8-837c5a2fd523,8a23f655-cf77-484e-a1e8-e764e5674e88;e6643712-8521-4c83-b518-1a10d61da4ef,9b8c3396-5a7f-4472-9fda-cab6565b497b,643a9702-c775-48db-98e6-74af401f2f5a;f28943e2-f5e6-4133-80ef-8c7c4f628920,,;1c693368-c595-46bd-b8c5-e406f9486ef8,,;a6ff21b9-291e-44c8-bf87-8de3703c5e97,,;,,;,,"
+
+new entry "Siael_Vampire_Claws"
+type "SpellData"
+data "SpellType" "Target"
+using "Siael_Vampire_Claws"
+data "UseCosts" "ActionPoint:1"
+data "SpellAnimation" "8b8bb757-21ce-4e02-a2f3-97d55cf2f90b,,;6606c30b-be1c-4f17-ae6b-1a591c80b18c,,;f4ac302b-1569-404f-bd52-1fe443e265df,,;e8a5c57f-855b-4227-acaa-11e8ce8d7d64,,;7bb52cd4-0b1c-4926-9165-fa92b75876a3,,;2b81c18b-9698-4262-a623-932c2bb1296d,,;0b07883a-08b8-43b6-ac18-84dc9e84ff50,,;,,;,,"

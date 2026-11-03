@@ -1,0 +1,5 @@
+new entry "PATHOFUNDEATH_VAMPIRISM_PERMANENT"
+type "StatusData"
+data "StatusType" "BOOST"
+using "PATHOFUNDEATH_VAMPIRISM_PERMANENT"
+data "DynamicAnimationTag" "aafbe780-d237-416e-9d05-e03070c9dbee"
